@@ -27,6 +27,8 @@ This challenge is a journey to improve our software engineering knowledge and sk
 
 ## Let's Do Hard Things Together!
 
-Join the challenge and push your limits in software engineering. Use the hashtags **#100DaysOfALXSE**, **#DoHardThings**, and **#ALX_SE** to keep the community engaged!
+# Day 1
+
+Today, I solved 10 basic problems using C++. It was a great start to the challenge and I'm excited to see what I'll learn next!
 
 Good luck, and happy coding!
