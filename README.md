@@ -31,4 +31,17 @@ This challenge is a journey to improve our software engineering knowledge and sk
 
 Today, I solved 10 basic problems using C++. It was a great start to the challenge and I'm excited to see what I'll learn next!
 
+# Day 2
+
+1. Problem 1: [calculate the average of the marks]
+2. Problem 2: [Max of two numbers]
+3. problem 3: [Max of three numbers]
+4. problem 4: [Swap two numbers]
+5. problem 5: [Rectangle Area]
+6. problem 6: [Recatngle Area Diagonal Side]
+7. problem 7: [Triangle Area]
+8. problem 8: [Circle Area]
+9. problem 9: [Circle Area Diameter]
+10. Problem 10: [Circle Area Inscribed In Square]
+
 Good luck, and happy coding!
