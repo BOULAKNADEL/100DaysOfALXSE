@@ -71,4 +71,17 @@ Today, I tackled 10 basic problems using C++. It's been an exciting start to the
 19. Problem 19: [Pay and Remainder]
 20. Problem 20: [Service Fee]
 
+##Day 4
+
+1.  Problem  1: [Hours To Days]
+2.  Problem  2: [Task Duration]
+3.  problem  3: [Task Duration Advanced]
+4.  problem  4: [Day of the week]
+5.  problem  5: [Month of the year]
+6.  problem  6: [ASCII Practice]
+7.  problem  7: [Loan Installment]
+8.  problem  8: [Loan Installment Advanced]
+9.  problem  9: [PIN Code]
+10. Problem 10: [PIN Code Advanced]
+
 Happy coding, and may your code be as elegant as a well-ripened banana! 🍌😄
