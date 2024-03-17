@@ -71,7 +71,7 @@ Today, I tackled 10 basic problems using C++. It's been an exciting start to the
 19. Problem 19: [Pay and Remainder]
 20. Problem 20: [Service Fee]
 
-##Day 4
+## Day 4
 
 1.  Problem  1: [Hours To Days]
 2.  Problem  2: [Task Duration]
@@ -83,5 +83,30 @@ Today, I tackled 10 basic problems using C++. It's been an exciting start to the
 8.  problem  8: [Loan Installment Advanced]
 9.  problem  9: [PIN Code]
 10. Problem 10: [PIN Code Advanced]
+
+## Day 5
+
+
+1.  Problem  1: [beautiful Multiplication Table]
+2.  Problem  2: [Prime Numbers From 1 to N]
+3.  problem  3: [Perfect Number]
+4.  problem  4: [Perfect Numbers From 1 to N]
+5.  problem  5: [Print Number in Reversed Order]
+6.  problem  6: [Sum Digit of the Number]
+7.  problem  7: [Reverse a Number]
+8.  problem  8: [Digit Frequency]
+9.  problem  9: [Digit Frequency Advanced]
+10. Problem 10: [Palindrome Numbers]
+11. Problem 11: [Print Each Digit Of a Number]
+12. Problem 12: [Inverted Number Pattern]
+13. Problem 13: [Print Inverted Pattern]
+14. Problem 14: [Inverted Letter Pattern]
+15. Problem 15: [Letter Pattern]
+16. Problem 16: [Print From AAA to ZZZ]
+17. Problem 17: [Guess Password]
+18. Problem 18: [Encryption/Decryption]
+19. Problem 19: [Print Random Numbers From 1 To N]
+20. Problem 20: [Random Digit Charcaters and Special Charcaters]
+
 
 Happy coding, and may your code be as elegant as a well-ripened banana! 🍌😄
