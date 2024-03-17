@@ -31,7 +31,16 @@ Let's Do Hard Things Together! 💡
 
 ## Day 1
 
-Today, I tackled 10 basic problems using C++. It's been an exciting start to the challenge, and I can't wait to dive deeper into my learning journey! 🚀
+1.  Problem  1: [Print Name]
+2.  Problem  2: [Read Name and Print it]
+3.  problem  3: [Odd Number Or Even]
+4.  problem  4: [Driver Case]
+5.  problem  5: [Driver Case 2]
+6.  problem  6: [Full Name]
+7.  problem  7: [Half Number]
+8.  problem  8: [Pass Or Fail]
+9.  problem  9: [Sum of 3 Numbers ]
+10. Problem 10: [Average Of 3 Marks]
 
 ---
 
@@ -47,6 +56,8 @@ Today, I tackled 10 basic problems using C++. It's been an exciting start to the
 8. **Problem 8:** Compute the area of a circle.
 9. **Problem 9:** Calculate the area of a circle given its diameter.
 10. **Problem 10:** Find the area of a circle inscribed in a square.
+
+---
 
 ## Day 3
 
@@ -71,6 +82,8 @@ Today, I tackled 10 basic problems using C++. It's been an exciting start to the
 19. Problem 19: [Pay and Remainder]
 20. Problem 20: [Service Fee]
 
+---
+
 ## Day 4
 
 1.  Problem  1: [Hours To Days]
@@ -83,6 +96,8 @@ Today, I tackled 10 basic problems using C++. It's been an exciting start to the
 8.  problem  8: [Loan Installment Advanced]
 9.  problem  9: [PIN Code]
 10. Problem 10: [PIN Code Advanced]
+
+---
 
 ## Day 5
 
