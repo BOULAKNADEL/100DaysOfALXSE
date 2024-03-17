@@ -29,7 +29,7 @@ Let's Do Hard Things Together! 💡
 
 ---
 
-## Day 1
+## Day 1 💪
 
 1.  Problem  1: [Print Name]
 2.  Problem  2: [Read Name and Print it]
@@ -44,7 +44,7 @@ Let's Do Hard Things Together! 💡
 
 ---
 
-## Day 2
+## Day 2 💪
 
 1. **Problem 1:** Calculate the average of the marks.
 2. **Problem 2:** Find the maximum of two numbers.
@@ -59,7 +59,7 @@ Let's Do Hard Things Together! 💡
 
 ---
 
-## Day 3
+## Day 3 💪
 
 1.  Problem  1: [Circle Area Along Circumference]
 2.  Problem  2: [Circle Area Inscribed Isosceles Triangle]
@@ -84,7 +84,7 @@ Let's Do Hard Things Together! 💡
 
 ---
 
-## Day 4
+## Day 4 💪
 
 1.  Problem  1: [Hours To Days]
 2.  Problem  2: [Task Duration]
@@ -99,7 +99,7 @@ Let's Do Hard Things Together! 💡
 
 ---
 
-## Day 5
+## Day 5 💪
 
 
 1.  Problem  1: [beautiful Multiplication Table]
