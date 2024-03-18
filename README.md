@@ -101,7 +101,6 @@ Let's Do Hard Things Together! 💡
 
 ## Day 5 💪
 
-
 1.  Problem  1: [beautiful Multiplication Table]
 2.  Problem  2: [Prime Numbers From 1 to N]
 3.  problem  3: [Perfect Number]
@@ -122,6 +121,21 @@ Let's Do Hard Things Together! 💡
 18. Problem 18: [Encryption/Decryption]
 19. Problem 19: [Print Random Numbers From 1 To N]
 20. Problem 20: [Random Digit Charcaters and Special Charcaters]
+
+---
+
+## Day 6 💪
+
+1.  Problem  1: [Random Keys]
+2.  Problem  2: [Fill Array]
+3.  problem  3: [Array Random Number]
+4.  problem  4: [Array Max Number]
+5.  problem  5: [Array Min Number]
+6.  problem  6: [Array Sum Number]
+7.  problem  7: [Array Average]
+8.  problem  8: [Copy Array]
+9.  problem  9: [Prime Number In Array]
+10. Problem 10: [Sum Of Two Arrays]
 
 
 Happy coding, and may your code be as elegant as a well-ripened banana! 🍌😄
