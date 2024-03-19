@@ -137,5 +137,20 @@ Let's Do Hard Things Together! 💡
 9.  problem  9: [Prime Number In Array]
 10. Problem 10: [Sum Of Two Arrays]
 
+---
+
+## Day 7 💪
+
+1.  Problem  1: [Shuffle Array]
+2.  Problem  2: [Copy Array In Reverse]
+3.  problem  3: [Array Of Keys]
+4.  problem  4: [Search Of Number In Array]
+5.  problem  5: [Number In Array Or Not?]
+6.  problem  6: [Dynamic Array]
+7.  problem  7: [Copy Array using Add Function]
+8.  problem  8: [Copy Odd Number To Array]
+9.  problem  9: [Copy Prime Number To Array]
+10. Problem 10: [Copy Distinct Number To Array]
+
 
 Happy coding, and may your code be as elegant as a well-ripened banana! 🍌😄
