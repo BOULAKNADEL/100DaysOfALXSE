@@ -152,5 +152,20 @@ Let's Do Hard Things Together! 💡
 9.  problem  9: [Copy Prime Number To Array]
 10. Problem 10: [Copy Distinct Number To Array]
 
+---
+
+## Day 8 💪
+
+1.  Problem  1: [Palindrome Array]
+2.  Problem  2: [Count Odd Numbers In Array]
+3.  problem  3: [Count Even Numbers In Array]
+4.  problem  4: [Count Positive Number In Array]
+5.  problem  5: [Count Negative Numbers]
+6.  problem  6: [Recode abs built-in function in c++]
+7.  problem  7: [Recode round built-in function in c++]
+8.  problem  8: [Recode floor built-in function in c++]
+9.  problem  9: [Recode ceil built-in function in c++]
+10. Problem 10: [Recode sqrt built-in function in c++]
+
 
 Happy coding, and may your code be as elegant as a well-ripened banana! 🍌😄
