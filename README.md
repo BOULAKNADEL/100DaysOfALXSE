@@ -30,7 +30,10 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 1 💪
-#13/03/2024
+
+---
+
+**Date: 13th March, 2024**
 
 1.  **Problem  1:** [Print Name]
 2.  **Problem  2:** [Read Name and Print it]
@@ -46,7 +49,10 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 2 💪
-#14/03/2024
+
+---
+
+**Date: 14th March, 2024**
 
 1. **Problem 1:** [Calculate the average of the marks]
 2. **Problem 2:** [Find the maximum of two numbers]
@@ -62,7 +68,10 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 3 💪
-#15/03/2024
+
+---
+
+**Date: 15th March, 2024**
 
 1.  **Problem  1:** [Circle Area Along Circumference]
 2.  **Problem  2:** [Circle Area Inscribed Isosceles Triangle]
@@ -88,7 +97,10 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 4 💪
-#16/03/2024
+
+---
+
+**Date: 16th March, 2024**
 
 1.  Problem  1: [Hours To Days]
 2.  Problem  2: [Task Duration]
@@ -104,7 +116,10 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 5 💪
-#17/03/2024
+
+---
+
+**Date: 17th March, 2024**
 
 1.  Problem  1: [beautiful Multiplication Table]
 2.  Problem  2: [Prime Numbers From 1 to N]
@@ -130,7 +145,10 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 6 💪
-#18/03/2024
+
+---
+
+**Date: 18th March, 2024**
 
 1.  Problem  1: [Random Keys]
 2.  Problem  2: [Fill Array]
@@ -146,7 +164,10 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 7 💪
-#19/03/2024
+
+---
+
+**Date: 19th March, 2024**
 
 1.  Problem  1: [Shuffle Array]
 2.  Problem  2: [Copy Array In Reverse]
@@ -162,7 +183,10 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 8 💪
-#20/03/2024
+
+---
+
+**Date: 20th March, 2024**
 
 1.  Problem  1: [Palindrome Array]
 2.  Problem  2: [Count Odd Numbers In Array]
@@ -178,7 +202,10 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 9 💪
-#21/03/2024
+
+---
+
+**Date: 21th March, 2024**
 
 1.  Lesson   A: [Integer Format]
 2.  Lesson   B: [Float Format]
