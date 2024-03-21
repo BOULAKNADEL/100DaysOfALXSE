@@ -30,61 +30,65 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 1 💪
+#13/03/2024
 
-1.  Problem  1: [Print Name]
-2.  Problem  2: [Read Name and Print it]
-3.  problem  3: [Odd Number Or Even]
-4.  problem  4: [Driver Case]
-5.  problem  5: [Driver Case 2]
-6.  problem  6: [Full Name]
-7.  problem  7: [Half Number]
-8.  problem  8: [Pass Or Fail]
-9.  problem  9: [Sum of 3 Numbers ]
-10. Problem 10: [Average Of 3 Marks]
+1.  **Problem  1:** [Print Name]
+2.  **Problem  2:** [Read Name and Print it]
+3.  **problem  3:** [Odd Number Or Even]
+4.  **problem  4:** [Driver Case]
+5.  **problem  5:** [Driver Case 2]
+6.  **problem  6:** [Full Name]
+7.  **problem  7:** [Half Number]
+8.  **problem  8:** [Pass Or Fail]
+9.  **problem  9:** [Sum of 3 Numbers ]
+10. **Problem 10:** [Average Of 3 Marks]
 
 ---
 
 ## Day 2 💪
+#14/03/2024
 
-1. **Problem 1:** Calculate the average of the marks.
-2. **Problem 2:** Find the maximum of two numbers.
-3. **Problem 3:** Determine the maximum of three numbers.
-4. **Problem 4:** Swap two numbers.
-5. **Problem 5:** Compute the area of a rectangle.
-6. **Problem 6:** Calculate the diagonal of a rectangle.
-7. **Problem 7:** Find the area of a triangle.
-8. **Problem 8:** Compute the area of a circle.
-9. **Problem 9:** Calculate the area of a circle given its diameter.
-10. **Problem 10:** Find the area of a circle inscribed in a square.
+1. **Problem 1:** [Calculate the average of the marks]
+2. **Problem 2:** [Find the maximum of two numbers]
+3. **Problem 3:** [Determine the maximum of three numbers]
+4. **Problem 4:** [Swap two numbers]
+5. **Problem 5:** [Compute the area of a rectangle]
+6. **Problem 6:** [Calculate the diagonal of a rectangle]
+7. **Problem 7:** [Find the area of a triangle]
+8. **Problem 8:** [Compute the area of a circle]
+9. **Problem 9:** [Calculate the area of a circle given its diameter]
+10. **Problem 10:** [Find the area of a circle inscribed in a square]
 
 ---
 
 ## Day 3 💪
+#15/03/2024
 
-1.  Problem  1: [Circle Area Along Circumference]
-2.  Problem  2: [Circle Area Inscribed Isosceles Triangle]
-3.  problem  3: [Circle Area Arbitary Triangle]
-4.  problem  4: [Validate Range Number]
-5.  problem  5: [Read Until]
-6.  problem  6: [Print Numbers To N]
-7.  problem  7: [Print Numbers From N]
-8.  problem  8: [Sum Odd Numbers]
-9.  problem  9: [Sum Even Numbers]
-10. Problem 10: [Factorial Numbers]
-11. Problem 11: [Power of 2 and 3 and 4]
-12. Problem 12: [Power of Number]
-13. Problem 13: [Grade Student]
-14. Problem 14: [Commission Percentage]
-15. Problem 15: [Piggy Bank]
-16. Problem 16: [Simple Calculator]
-17. Problem 17: [Sum Until]
-18. Problem 18: [Prime Numbers]
-19. Problem 19: [Pay and Remainder]
-20. Problem 20: [Service Fee]
+1.  **Problem  1:** [Circle Area Along Circumference]
+2.  **Problem  2:** [Circle Area Inscribed Isosceles Triangle]
+3.  **problem  3:** [Circle Area Arbitary Triangle]
+4.  **problem  4:** [Validate Range Number]
+5.  **problem  5:** [Read Until]
+6.  **problem  6:** [Print Numbers To N]
+7.  **problem  7:** [Print Numbers From N]
+8.  **problem  8:** [Sum Odd Numbers]
+9.  **problem  9:** [Sum Even Numbers]
+10. **Problem 10:** [Factorial Numbers]
+11. **Problem 11:** [Power of 2 and 3 and 4]
+12. **Problem 12:** [Power of Number]
+13. **Problem 13:** [Grade Student]
+14. **Problem 14:** [Commission Percentage]
+15. **Problem 15:** [Piggy Bank]
+16. **Problem 16:** [Simple Calculator]
+17. **Problem 17:** [Sum Until]
+18. **Problem 18:** [Prime Numbers]
+19. **Problem 19:** [Pay and Remainder]
+20. **Problem 20:** [Service Fee]
 
 ---
 
 ## Day 4 💪
+#16/03/2024
 
 1.  Problem  1: [Hours To Days]
 2.  Problem  2: [Task Duration]
@@ -100,6 +104,7 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 5 💪
+#17/03/2024
 
 1.  Problem  1: [beautiful Multiplication Table]
 2.  Problem  2: [Prime Numbers From 1 to N]
@@ -125,6 +130,7 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 6 💪
+#18/03/2024
 
 1.  Problem  1: [Random Keys]
 2.  Problem  2: [Fill Array]
@@ -140,6 +146,7 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 7 💪
+#19/03/2024
 
 1.  Problem  1: [Shuffle Array]
 2.  Problem  2: [Copy Array In Reverse]
@@ -155,6 +162,7 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 8 💪
+#20/03/2024
 
 1.  Problem  1: [Palindrome Array]
 2.  Problem  2: [Count Odd Numbers In Array]
@@ -166,6 +174,27 @@ Let's Do Hard Things Together! 💡
 8.  problem  8: [Recode floor built-in function in c++]
 9.  problem  9: [Recode ceil built-in function in c++]
 10. Problem 10: [Recode sqrt built-in function in c++]
+
+---
+
+## Day 9 💪
+#21/03/2024
+
+1.  Lesson   A: [Integer Format]
+2.  Lesson   B: [Float Format]
+3.  Lesson   C: [string and char format]
+4.  Lesson   D: [Setw Manipulator]
+5.  Lesson   E: [Default Parameters]
+6.  Lesson   F: [Function Overloading]
+7.  Lesson   G: [Call Stack / Call Hierarchy]
+8.  Lesson   H: [Ranged Loop]
+9.  Lesson   I: [Number Validation]
+10. Problem  1: [Fill Matrix With Random Numbers]
+11. Problem  2: [Sum of Each Row of the Matrix]
+12. Problem  3: [Sum Matrix Rows In Array]
+13. Problem  4: [Sum of Each Column of the Matrix]
+14. Problem  5: [Sum Matrix Columns In Array]
+
 
 
 Happy coding, and may your code be as elegant as a well-ripened banana! 🍌😄
