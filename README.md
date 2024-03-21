@@ -201,7 +201,7 @@ Let's Do Hard Things Together! 💡
 
 ---
 
-##Day 9 💪
+## Day 9 💪
 
 ---
 
