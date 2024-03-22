@@ -222,7 +222,24 @@ Let's Do Hard Things Together! 💡
 13. Problem  4: [Sum of Each Column of the Matrix]
 14. Problem  5: [Sum Matrix Columns In Array]
 
+---
 
+##Day 10
+
+---
+
+**Date: 22th March, 2024**
+
+1.  Lesson   A: [Vectors Declaration and Initialization]
+2.  Lesson   B: [Add Element to vector]
+3.  Lesson   C: [vector of structure]
+4.  Lesson   D: [Remove Elements in vector]
+5.  Lesson   E: [Vector Functions]
+6.  Problem  1: [Ordered Matrix]
+7.  Problem  2: [Transpose Matrix]
+8.  Problem  3: [Multiply Two Matrices]
+9.  Problem  4: [Middle Row and Col Matrix]
+10. Problem  5: [Sum of the Matrix]
 
 Happy coding, and may your code be as elegant as a well-ripened banana! 🍌# 100 Days Of ALX Software Engineering (ALX-SE) Challenge 🚀
 
