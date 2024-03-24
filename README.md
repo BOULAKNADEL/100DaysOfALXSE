@@ -252,11 +252,4 @@ Let's Do Hard Things Together! 💡
 6.  Lesson   6: [Delete Record From File]
 7.  Lesson   7: [Update Record In File]
 
-
-
-
-
 May your code be as sleek as a well-crafted algorithm and as efficient as a finely tuned machine! 🚀
-
-# 100 Days Of ALX Software Engineering (ALX-SE) Challenge 🚀
-
