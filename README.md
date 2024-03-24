@@ -31,8 +31,6 @@ Let's Do Hard Things Together! 💡
 
 ## Day 1 💪
 
----
-
 **Date: 13th March, 2024**
 
 1.  **Problem  1:** [Print Name]
@@ -50,8 +48,6 @@ Let's Do Hard Things Together! 💡
 
 ## Day 2 💪
 
----
-
 **Date: 14th March, 2024**
 
 1. **Problem 1:** [Calculate the average of the marks]
@@ -68,8 +64,6 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 3 💪
-
----
 
 **Date: 15th March, 2024**
 
@@ -98,26 +92,22 @@ Let's Do Hard Things Together! 💡
 
 ## Day 4 💪
 
----
-
 **Date: 16th March, 2024**
 
-1.  Problem  1: [Hours To Days]
-2.  Problem  2: [Task Duration]
-3.  problem  3: [Task Duration Advanced]
-4.  problem  4: [Day of the week]
-5.  problem  5: [Month of the year]
-6.  problem  6: [ASCII Practice]
-7.  problem  7: [Loan Installment]
-8.  problem  8: [Loan Installment Advanced]
-9.  problem  9: [PIN Code]
-10. Problem 10: [PIN Code Advanced]
+1.  **Problem  1:** [Hours To Days]
+2.  **Problem  2:** [Task Duration]
+3.  **problem  3:** [Task Duration Advanced]
+4.  **problem  4:** [Day of the week]
+5.  **problem  5:** [Month of the year]
+6.  **problem  6:** [ASCII Practice]
+7.  **problem  7:** [Loan Installment]
+8.  **problem  8:** [Loan Installment Advanced]
+9.  **problem  9:** [PIN Code]
+10. **Problem 10:** [PIN Code Advanced]
 
 ---
 
 ## Day 5 💪
-
----
 
 **Date: 17th March, 2024**
 
@@ -146,8 +136,6 @@ Let's Do Hard Things Together! 💡
 
 ## Day 6 💪
 
----
-
 **Date: 18th March, 2024**
 
 1.  Problem  1: [Random Keys]
@@ -164,8 +152,6 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 7 💪
-
----
 
 **Date: 19th March, 2024**
 
@@ -184,8 +170,6 @@ Let's Do Hard Things Together! 💡
 
 ## Day 8 💪
 
----
-
 **Date: 20th March, 2024**
 
 1.  Problem  1: [Palindrome Array]
@@ -202,8 +186,6 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 9 💪
-
----
 
 **Date: 21th March, 2024**
 
@@ -225,8 +207,6 @@ Let's Do Hard Things Together! 💡
 ---
 
 ## Day 10
-
----
 
 **Date: 22th March, 2024**
 
