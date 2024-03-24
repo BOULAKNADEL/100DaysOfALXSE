@@ -224,7 +224,7 @@ Let's Do Hard Things Together! 💡
 
 ---
 
-##Day 10
+## Day 10
 
 ---
 
@@ -241,5 +241,42 @@ Let's Do Hard Things Together! 💡
 9.  Problem  4: [Middle Row and Col Matrix]
 10. Problem  5: [Sum of the Matrix]
 
-Happy coding, and may your code be as elegant as a well-ripened banana! 🍌# 100 Days Of ALX Software Engineering (ALX-SE) Challenge 🚀
+---
+
+## Day 11
+
+**Date: 23th March, 2024**
+
+1.  Lesson   1: [Memory Management]
+2.  Lesson   2: [Dynamic Array]
+3.  Lesson   3: [Acces Vector Elements]
+4.  Lesson   4: [Change Vector Elements]
+5.  Lesson   5: [Try Catch]
+6.  Lesson   6: [String Object]
+7.  Lesson   7: [CCTYPE Functions]
+8.  Lesson   8: [Local/UTC Time]
+9.  Lesson   9: [Date/Time Structure]
+10. Lesson  10: [Vector iterator]
+
+---
+
+## Day 12
+
+**Date: 24th March, 2024**
+
+1.  Lesson   1: [Write Data To File]
+2.  Lesson   2: [Append Data To File]
+3.  Lesson   3: [Print File Content]
+4.  Lesson   4: [Load Data From File To Vector]
+5.  Lesson   5: [Save Vector Ro File]
+6.  Lesson   6: [Delete Record From File]
+7.  Lesson   7: [Update Record In File]
+
+
+
+
+
+May your code be as sleek as a well-crafted algorithm and as efficient as a finely tuned machine! 🚀
+
+# 100 Days Of ALX Software Engineering (ALX-SE) Challenge 🚀
 
