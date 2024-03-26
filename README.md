@@ -252,4 +252,19 @@ Let's Do Hard Things Together! 💡
 6.  Lesson   6: [Delete Record From File]
 7.  Lesson   7: [Update Record In File]
 
+---
+
+## Day 13
+
+**Date: 25th March, 2024**
+
+1.  Problem   1: [Check Matrices Equality]
+2.  Problem   2: [Typical Matrices]
+3.  Problem   3: [Check Matrix Identity]
+4.  Problem   4: [Scalar Matrix]
+5.  Problem   5: [Count Number In Matrix]
+6.  Problem   6: [Sparce Matrix]
+7.  Problem   7: [Number Exists in Matrix]
+8.  Problem   8: [Intersected Numbers in Matrices]
+
 May your code be as sleek as a well-crafted algorithm and as efficient as a finely tuned machine! 🚀
