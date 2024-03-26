@@ -267,4 +267,20 @@ Let's Do Hard Things Together! 💡
 7.  Problem   7: [Number Exists in Matrix]
 8.  Problem   8: [Intersected Numbers in Matrices]
 
+---
+
+## Day 14
+
+**Date: 26th March, 2024**
+
+1.  Problem   1: [Min/Max Number In Matrix]
+2.  Problem   2: [Palindrome Matrix]
+3.  Problem   3: [Fibonacci Series]
+4.  Problem   4: [Fibonacci Series using Recursion]
+5.  Problem   5: [Print First Letter of Each word]
+6.  Problem   6: [Toupper First letter of each word]
+7.  Problem   7: [Tolower First letter of each word]
+8.  Problem   8: [Toupper and Tolower All Letters]
+9.  Problem   9: [Read a Char and Invert Case]
+
 May your code be as sleek as a well-crafted algorithm and as efficient as a finely tuned machine! 🚀
