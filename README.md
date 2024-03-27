@@ -283,4 +283,21 @@ Let's Do Hard Things Together! 💡
 8.  Problem   8: [Toupper and Tolower All Letters]
 9.  Problem   9: [Read a Char and Invert Case]
 
+---
+
+## Day 15
+
+**Date: 27th March, 2024**
+
+1.   Problem   1: [Invert All Letters Case]
+2.   Problem   2: [Count Small/Capital Letters]
+3.   Problem   3: [Count Letters]
+4.   Problem   4: [Count Letters Match Case Or Not]
+5.   Problem   5: [The Letter is vowel or not?]
+6.   Problem   6: [Count Vowels]
+7.   Problem   7: [Print Vowels In string]
+8.   Problem   8: [Print Each Word In String]
+9.   Problem   9: [Count Each Word In String]
+10.  Problem  10: [Split String]
+
 May your code be as sleek as a well-crafted algorithm and as efficient as a finely tuned machine! 🚀
